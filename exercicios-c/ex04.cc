@@ -22,7 +22,7 @@ int main() {
 
     cout << "------ RESULTADO DO VOO ------ " << endl;
     cout << "Altura maxima atingida: " << hMax << endl;
-    cout << "Distancia total percorria: " << dTotal << endl;
+    cout << "Distancia total percorrida: " << dTotal << endl;
     cout << "Tempo total de voo: " << tTotal << endl;
 
     return 0;
