@@ -120,17 +120,17 @@ cd curso-c-AEB
 Abra o terminal do VS Code e execute:
 
 ```bash
-g++ src/ex03_jogo_adivinhacao.cpp -o programa
+g++ exercicios-c/ex03_jogo_adivinhacao.cpp -o ex03.exe
 ```
 (Substitua pelo arquivo desejado.)
 
 Exemplo:
 
 ```bash
-g++ src/ex01_nome_usuario.cpp -o ex01
-g++ src/ex02_calculadora.cpp -o ex02
-g++ src/ex03_jogo_adivinhacao.cpp -o ex03
-g++ src/ex04_calculo_aeroespacial.cpp -o ex04
+g++ exercicios-c/ex01_nome_usuario.cpp -o ex01.exe
+g++ exercicios-c/ex02_calculadora.cpp -o ex02.exe
+g++ exercicios-c/ex03_jogo_adivinhacao.cpp -o ex03.exe
+g++ exercicios-c/ex04_calculo_aeroespacial.cpp -o ex04.exe
 ```
 
 ### ▶️ 3. Executar o programa
